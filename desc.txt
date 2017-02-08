@@ -1,0 +1,16 @@
+(Z) 08.02.2017
+
+Solving a problem with `ng generate` due to the updating of npm packages.
+
+
+
+ @types/jasmine          2.5.38  →  2.5.41
+ @types/node            ^6.0.42  →  ^7.0.5
+ jasmine-spec-reporter    2.5.0  →   3.2.0
+ karma                    1.2.0  →   1.4.1
+ karma-remap-istanbul    ^0.2.1  →  ^0.6.0
+ protractor             ~4.0.13  →  ~5.1.1
+ ts-node                  1.2.1  →   2.0.0
+ typescript              ~2.0.3  →  ~2.1.5
+
+ 
